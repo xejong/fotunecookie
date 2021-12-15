@@ -1,0 +1,20 @@
+body{
+    background-color:salmon;
+    /* background-image: url('image/beach.jpg'); */
+}
+.notice{
+    color:white;
+}
+.cookieImg{
+    display:inline-block;
+    margin: 0 auto;
+    width: 500px;
+}
+.knifeImg{
+    width: 5%;
+    cursor: pointer;
+}
+.replayImg{
+    width: 5%;
+    cursor: pointer;
+}
