@@ -11,10 +11,10 @@ body{
     width: 500px;
 }
 .knifeImg{
-    width: 5%;
+    width: 120px;
     cursor: pointer;
 }
 .replayImg{
-    width: 5%;
+    width: 120px;
     cursor: pointer;
 }
